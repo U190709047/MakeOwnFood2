@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context=".RecipeActivity2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Food Name"
+        android:textSize="21sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:background="@color/white"
+        android:id="@+id/recipe_activity_textViewDishName"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:scaleType="fitXY"
+        android:layout_marginTop="-10dp"
+        android:id="@+id/recipe_activity_imageViewDishPicture"
+        android:layout_height="170dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Food Recipe"
+        android:textColor="#000000"
+        android:textSize="17sp"
+        android:background="@color/white"
+        android:layout_marginTop="3dp"
+        android:id="@+id/recipe_activity_textViewDishDetail"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>

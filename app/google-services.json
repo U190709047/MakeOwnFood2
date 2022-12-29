@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308817268911",
+    "project_id": "makeownfood",
+    "storage_bucket": "makeownfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308817268911:android:77c8bad432022e97e3c45a",
+        "android_client_info": {
+          "package_name": "com.example.makeownfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308817268911-4cl5aio7qfg0ge6nn5h5klsd9ivimmca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makeownfood",
+            "certificate_hash": "91f474c65cf70677b38a385c431be501461beca8"
+          }
+        },
+        {
+          "client_id": "308817268911-eu386immj4tj2oil87i2nisap8gtdhac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBm0l2CcYI2F8TdtS7C6rR__X3brdF6t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308817268911-eu386immj4tj2oil87i2nisap8gtdhac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

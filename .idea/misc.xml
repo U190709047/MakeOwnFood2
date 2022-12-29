@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Last/AndroidStudioProjects/MakeOWnFood2/app/src/main/res/drawable/baklava_background.xml" value="0.294" />
+        <entry key="..\:/Users/Last/AndroidStudioProjects/MakeOWnFood2/app/src/main/res/layout/activity_array_adaptor.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/Last/AndroidStudioProjects/MakeOWnFood2/app/src/main/res/layout/activity_custom_adapter.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/Last/AndroidStudioProjects/MakeOWnFood2/app/src/main/res/layout/activity_dishe.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/Last/AndroidStudioProjects/MakeOWnFood2/app/src/main/res/layout/activity_dishe_adapter.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/Last/AndroidStudioProjects/MakeOWnFood2/app/src/main/res/layout/listview.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/Last/AndroidStudioProjects/MakeOWnFood2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.294" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/drawable/icon_background.xml" value="0.151" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/drawable/kbb_background.xml" value="0.151" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/drawable/spng_background.xml" value="0.298" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/layout/activity_array_adaptor.xml" value="0.1" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/layout/activity_custom_adapter.xml" value="0.3368421052631579" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/layout/activity_dishe.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/layout/activity_dishe_adapter.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/layout/activity_main.xml" value="0.24909420289855072" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/layout/activity_recipe1.xml" value="0.1" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/layout/activity_recipe2.xml" value="0.12182971014492754" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/layout/listview.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.151" />
+        <entry key="..\:/Users/Last/Desktop/MakeOWnFood2/app/src/main/res/mipmap-anydpi-v26/spng.xml" value="0.1935" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
